@@ -1,0 +1,14 @@
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\TCGMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\TCGMain.AssemblyInfoInputs.cache
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\TCGMain.AssemblyInfo.cs
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\TCGMain.csproj.CoreCompileInputs.cache
+C:\Users\Your name\source\repos\TCGMain\TCGMain\bin\Debug\net9.0\TCGMain.exe
+C:\Users\Your name\source\repos\TCGMain\TCGMain\bin\Debug\net9.0\TCGMain.deps.json
+C:\Users\Your name\source\repos\TCGMain\TCGMain\bin\Debug\net9.0\TCGMain.runtimeconfig.json
+C:\Users\Your name\source\repos\TCGMain\TCGMain\bin\Debug\net9.0\TCGMain.dll
+C:\Users\Your name\source\repos\TCGMain\TCGMain\bin\Debug\net9.0\TCGMain.pdb
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\TCGMain.dll
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\refint\TCGMain.dll
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\TCGMain.pdb
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\TCGMain.genruntimeconfig.cache
+C:\Users\Your name\source\repos\TCGMain\TCGMain\obj\Debug\net9.0\ref\TCGMain.dll
