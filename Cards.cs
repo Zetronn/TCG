@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,11 +10,16 @@ namespace TCGMain
     {
         public string Name;
         public int Health;
+        public string Visual;
         public static int ID;
         public int Attack;
         public void showHP()
         {
             Console.WriteLine(Name + " has " + Health + " left ");
+        }
+        public void showCard()
+        {
+            Console.WriteLine(Visual);
         }
     }
 }
