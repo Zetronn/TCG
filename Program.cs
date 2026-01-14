@@ -10,7 +10,7 @@ namespace TCGMain
             Cards Bulbazaur = new Cards();
             Bulbazaur.Name = "Bulbazaur";
             Bulbazaur.Health = 100;
-            Bulbazaur.visualisation = @"             ;,;.;,;.;.
+            Bulbazaur.Visual = @"             ;,;.;,;.;.
               ..:;:;::;: 
         ..--             --.  
       / .   .        .   .`\
@@ -30,7 +30,7 @@ namespace TCGMain
             Bulbazaur.showHP();
 
             
-            Bulbazaur.ShowCard();
+            Bulbazaur.showCard();
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
