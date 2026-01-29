@@ -30,7 +30,9 @@ namespace TCGMain
     }
     class Player
     {
-        public int points = 0;
+        public int points;
+        public string Username;
+        public int movePoint;
         public void showPoints()
         {
             Console.WriteLine("This player has " + points + " points " );
